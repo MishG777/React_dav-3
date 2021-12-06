@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap");
+.learnMore {
+  border-bottom: 7px solid #6c63ff;
+  text-align: center;
+  width: 115px;
+  cursor: pointer;
+}
+
+.girlPhotoTwo {
+  margin-left: 60px;
+}
+
+.inner-div {
+  margin-right: 40px;
+}
+/*# sourceMappingURL=second-cont.css.map */

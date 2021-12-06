@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap");
+@import url(../Variables.scss);
+
+.main-buttons {
+  width: 230px;
+  text-align: center;
+  font-size: 14px;
+  font-family: Open Sans;
+}
+
+.login {
+  height: 45px;
+  width: 80px;
+  background-color: white;
+  color: $buttonColor;
+  border: 2px solid $buttonColor;
+  border-radius: 3px;
+}
+
+.getstarted {
+  height: 45px;
+  width: 110px;
+  margin-left: 20px;
+  background-color: $buttonColor;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
