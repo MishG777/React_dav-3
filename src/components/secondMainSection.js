@@ -8,8 +8,6 @@ function SecondMainSection() {
     return (
         
             <div className= 'main-section'>
-            
-
             <div className="main-right-cont">
                 <img src={photoTwo} alt="girlImg" className="girlPhotoTwo"/>
             </div>
