@@ -58,6 +58,11 @@
   display: flex;
   flex-direction: column;
 }
+.support {
+  display: flex;
+  flex-direction: column;
+}
+
 .about a,
 .support a {
   text-decoration: none;
